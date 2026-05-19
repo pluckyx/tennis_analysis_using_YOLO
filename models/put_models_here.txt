@@ -1,0 +1,6 @@
+Place your trained models (.pt files) in this directory.
+
+Expected files:
+- best.pt (YOLO model for tracking the ball)
+- coord.pt (ResNet50 model for court keypoints detection)
+- yolo26m.pt (Optional: local copy of standard detection model)

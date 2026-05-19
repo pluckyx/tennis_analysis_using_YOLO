@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models
+*.pt
+*Zone.Identifier
+models/*
+!models/put_models_here.txt
+
+# Videos and Outputs
+input_video/
+output_video/
+debug_frame.jpg
+
+# Tracking / Run data
+runs/
+tracker_stubs/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environments & IDEs
+.venv/
+venv/
+ENV/
+.vscode/
+.idea/
