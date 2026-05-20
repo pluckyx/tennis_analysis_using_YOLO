@@ -23,8 +23,6 @@ graph TD
     E --> F[Performance Metrics Engine]
     F --> G[Annotated Output Video]
     
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#9f9,stroke:#333,stroke-width:2px
 ```
 
 ---
