@@ -4,6 +4,25 @@ An advanced computer vision and deep learning pipeline designed to perform compr
 
 ---
 
+## 🎬 Demo
+
+<table>
+  <tr>
+    <th>Input Video</th>
+    <th>Output Video</th>
+  </tr>
+  <tr>
+    <td>
+      <video src="assets/input_clip.mp4" width="400" autoplay loop muted></video>
+    </td>
+    <td>
+      <video src="assets/output_clip.mp4" width="400" autoplay loop muted></video>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏗️ Architecture & Pipeline Flow
 
 The pipeline processes video frames sequentially through detection, projection, analysis, and rendering steps:
