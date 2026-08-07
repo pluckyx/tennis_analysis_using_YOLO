@@ -12,12 +12,8 @@ An advanced computer vision and deep learning pipeline designed to perform compr
     <th>Output Video</th>
   </tr>
   <tr>
-    <td>
-      <video src="assets/input_clip.mp4" width="400" autoplay loop muted></video>
-    </td>
-    <td>
-      <video src="assets/output_clip.mp4" width="400" autoplay loop muted></video>
-    </td>
+    <td><img src="assets/input_preview.gif" width="400" alt="Input video"></td>
+    <td><img src="assets/output_preview.gif" width="400" alt="Output video"></td>
   </tr>
 </table>
 
